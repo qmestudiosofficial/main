@@ -1,0 +1,10 @@
+/*
+	Q.me Studio Official by Q.me Dev
+	qmestudiosofficial.github.io | @qme_112
+*/
+
+/* Loader */
+
+	body:before, body:after {
+		display: none;
+	}
